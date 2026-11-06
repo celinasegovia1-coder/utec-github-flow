@@ -13,7 +13,7 @@ All editable content for this workshop lives in the `docs/` directory:
 - `docs/collaboration.md` — Notes about how collaboration is expected to work in this project.
 - `docs/workflow-overview.md` — High-level description of how changes are typically proposed and merged.
 
-Participants in the workshop will:
+Participants:
 
 - Create feature branches for specific document changes.
 - Edit these documents in a controlled way.
